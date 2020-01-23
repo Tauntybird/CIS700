@@ -1,0 +1,25 @@
+E
+N
+N
+Beg for mercy
+S
+S
+S
+Talk to elephant
+N
+N
+N
+Pick red berries
+S
+S
+S
+Give red berries to elephant
+N
+E
+Take rock
+W
+Cut net with rock
+In
+Take vial
+Out
+Give vial to lion
